@@ -1,9 +1,8 @@
 ### Oiii! 👋
 
-- 👩‍💻 I'm a Software Developer 
+- 👩‍💻 I'm a illustartor and Software Developer 
 - 🌱 I’m currently learning Java at Tech Elevator
 - 🇧🇷 I'm from Brazil
-- 🐱 I have a cat
 
 <div align="center">
   <a href="https://github.com/mari-rider">
