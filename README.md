@@ -25,4 +25,3 @@
   <a href = "mailto:ridermaria2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-rider" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> 
 </div> -->
-<a href="https://app.daily.dev/marider"><img src="https://api.daily.dev/devcards/e84e4cadb957427a999095ac73af29ca.png?r=92b" width="400" alt="Mari Rider's Dev Card"/></a>
