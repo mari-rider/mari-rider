@@ -1,8 +1,7 @@
-### Oiii! 👋
+### Oie!
 
-- 👩‍💻 I'm a illustartor and Software Developer 
-- 🌱 I’m currently learning Java at Tech Elevator
-- 🇧🇷 I'm from Brazil
+- 👩‍💻 I'm a Web Developer and Illustrator
+- I'm currently learning JavaScript 💛
 
 <div align="center">
   <a href="https://github.com/mari-rider">
