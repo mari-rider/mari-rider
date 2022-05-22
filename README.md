@@ -1,7 +1,7 @@
 ### Oie!
 
-- 👩‍💻 I'm a Web Developer and Illustrator
-- I'm currently learning JavaScript 💛
+- I'm a Web Developer and Illustrator
+- I'm currently learning JavaScript
 
 <div align="center">
   <a href="https://github.com/mari-rider">
